@@ -1,6 +1,8 @@
 # hl2_test
 Two-sample location tests based on two-sample Hodges-Lehmann estimator Use hl2_test (robnptests) With (In) R Software
 
+https://www.youtube.com/watch?v=E1ACr5Xc1iA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
